@@ -14,10 +14,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=saurabhbakolia&style=flat-square&color=blue" alt=""/>
   <a href="https://github.com/saurabhbakolia?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a><br><br>
-  <p>
-  ![](https://visitor-badge.glitch.me/badge?page_id=praneeth-rdy.praneeth-rdy)
-    <a href="https://github.com/saurabhbakolia?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-  </p>
+  <a href="https://github.com/saurabhbakolia?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
   <h1>
     ## Hi there 👋, I'm Saurabh Bakolia.
     ### I am a passionate Learner and a Full Stack Developer.
