@@ -4,7 +4,7 @@
 <p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=praneeth-rdy.praneeth-rdy)
-    <a href="https://github.com/saurabhbakolia/"><img src="https://img.shields.io/github/followers/surajgupta3072?style=social"/></a>
+    <a href="https://github.com/saurabhbakolia/"><img src="https://img.shields.io/github/followers/saurabhbakolia?style=social"/></a>
     <a href="https://github.com/saurabhbakolia?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
 </p>
