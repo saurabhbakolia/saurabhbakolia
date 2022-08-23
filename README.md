@@ -14,11 +14,12 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=saurabhbakolia&style=flat-square&color=blue" alt=""/>
   <a href="https://github.com/saurabhbakolia?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a><br><br>
-  <a href="https://github.com/saurabhbakolia?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
   <h1>
-    ## Hi there 👋, I'm Saurabh Bakolia.
-    ### I am a passionate Learner and a Full Stack Developer.
+    Hi there 👋, I'm Saurabh Bakolia.
   </h1>
+  <p>
+    I am a passionate Learner and a Full Stack Developer.
+  </p>
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="220"/>
   </div>
