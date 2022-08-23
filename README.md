@@ -1,12 +1,35 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   <div id="badges">
+    <a href="https://www.linkedin.com/in/nikhil-agarwal-85a203189/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCTzha_EvXws0hJ610XTgKCQ">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://www.instagram.com/nikhilagarwal_dna/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=saurabhbakolia&style=flat-square&color=blue" alt=""/>
+  <a href="https://github.com/saurabhbakolia?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="220"/>
+  </div>
+</div>
 ## Hi there 👋, I'm Saurabh Bakolia.
 ### I am a passionate Learner and a Full Stack Developer.
 
 <p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=praneeth-rdy.praneeth-rdy)
-    <a href="https://github.com/saurabhbakolia/"><img src="https://img.shields.io/github/followers/saurabhbakolia?style=social"/></a>
     <a href="https://github.com/saurabhbakolia?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <img src="https://img.shields.io/badge/OS-Kali-dc143c"/>
+    
 </p>
 
 ## I'm a Fullstack Developer!!
@@ -91,28 +114,6 @@
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-   <div id="badges">
-    <a href="https://www.linkedin.com/in/nikhil-agarwal-85a203189/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCTzha_EvXws0hJ610XTgKCQ">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://www.instagram.com/nikhilagarwal_dna/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=nikhilagarwal204&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="220"/>
-  </div>
-</div>
 
 ---
 
