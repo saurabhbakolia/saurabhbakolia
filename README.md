@@ -22,6 +22,8 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="220"/>
   </div>
 </div>
+
+<div id="header" align="center">
 ## Hi there 👋, I'm Saurabh Bakolia.
 ### I am a passionate Learner and a Full Stack Developer.
 
@@ -120,4 +122,4 @@ I am a Software Developer and a Data Science enthusiast <img src="https://media.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhbakolia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div>
