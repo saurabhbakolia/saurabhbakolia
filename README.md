@@ -30,23 +30,6 @@
 </p>
 
 ## I'm a Fullstack Developer!!
- 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://saurabhbakolia.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://saurabhbakolia.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -75,13 +58,10 @@
 <br />
 
 ---
+<summary>:zap: GitHub Stats</summary>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saurabhbakolia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saurabhbakolia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
@@ -89,21 +69,6 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-
-
----
-
-### :man_technologist: About Me :
-I am a Software Developer and a Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Blockchain Technolgy currently.
-
-- :zap: In my free time, I read tech articles and watch upon new Technolgies.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-agarwal-85a203189/)
-
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saurabhbakolia&theme=dark&background=000000)](https://git.io/streak-stats)
