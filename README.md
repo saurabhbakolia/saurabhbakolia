@@ -20,9 +20,6 @@
   <p>
     I am a passionate Learner and a Full Stack Developer.
   </p>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="220"/>
-  </div>
 </div>
 
 <div id="header" align="center">
