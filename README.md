@@ -58,7 +58,7 @@
 ---
 <summary>:zap: GitHub Stats</summary>
 
-<div class="center">
+<div align="center">
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saurabhbakolia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
@@ -73,5 +73,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saurabhbakolia&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhbakolia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  </div>
 <div>
