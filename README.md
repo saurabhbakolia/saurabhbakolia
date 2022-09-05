@@ -29,8 +29,6 @@
     <a href="https://github.com/saurabhbakolia?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 </p>
 
-## I'm a Fullstack Developer!!
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
@@ -60,6 +58,7 @@
 ---
 <summary>:zap: GitHub Stats</summary>
 
+<div class="center">
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saurabhbakolia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
