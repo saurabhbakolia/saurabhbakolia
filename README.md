@@ -2,13 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    <div id="badges">
-    <a href="https://www.linkedin.com/in/nikhil-agarwal-85a203189/">
+    <a href="https://www.linkedin.com/in/saurabh-bakolia-bb82651a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B50WpdvGfTp2E2x3rOAHi6Q%3D%3D">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCTzha_EvXws0hJ610XTgKCQ">
+    <a href="https://www.youtube.com/channel/UCIpN-zP_RCC9XPN9YklEw3g">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://www.instagram.com/nikhilagarwal_dna/">
+    <a href="https://www.instagram.com/__jsoldi_/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
