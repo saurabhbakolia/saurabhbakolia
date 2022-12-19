@@ -69,7 +69,7 @@
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 <div>
-<div>
+<div id="header" align="center">
   ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saurabhbakolia&theme=dark&background=000000)](https://git.io/streak-stats)
 
