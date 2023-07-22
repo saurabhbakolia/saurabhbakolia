@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-theta-mauve.vercel.app/](https://portfolio-website-theta-mauve.vercel.app/)
 
-- 💬 Ask me about **Web Development,Economics.**
+- 💬 Ask me about *Web development, android development.**
 
 - 📫 How to reach me **saurabhbakolia2002@gmail.com**
 
