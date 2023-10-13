@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhbakolia&show_icons=true&locale=en" alt="saurabhbakolia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhbakolia&" alt="saurabhbakolia" /></p>
+[![An image of @saurabhbakolia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhbakolia)](https://holopin.io/@saurabhbakolia)
