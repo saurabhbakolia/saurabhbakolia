@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **android development.**
 
-- 🌱 I’m currently learning **Machine Learning,Web3.**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-website-theta-mauve.vercel.app/](https://portfolio-website-theta-mauve.vercel.app/)
 
 - 💬 Ask me about *Web development, android development.**
