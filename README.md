@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 
-- 🔭 I’m currently working on **android development.**
+- 🔭 I’m currently working on **machine learning.**
 
 - 👨‍💻 All of my projects are available at [http://scrollme.store/](http://scrollme.store/)
 
